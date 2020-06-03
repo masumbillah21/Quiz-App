@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="ques_1">Q.1 - Is it possible to have an activity without UI to perform
+        action(s)?</string>
+    <string name="q1_opt_1">Not possible</string>
+    <string name="q1_opt_2">Wrong question</string>
+    <string name="q1_opt_3">Yes, it is possible</string>
+    <string name="q1_opt_4">None of the above</string>
+    <string name="ques_2">Q.2 - What are the layouts available in android?</string>
+    <string name="q2_opt_1">Linear Layout</string>
+    <string name="q2_opt_2">Text View</string>
+    <string name="q2_opt_3">Relative Layout</string>
+    <string name="q2_opt_4">Scroll View</string>
+    <string name="ques_3">Q.3 - What is sleep mode in android?</string>
+    <string name="q3_opt_1">Only Radio interface layer and alarm are in active mode</string>
+    <string name="q3_opt_2">Switched off</string>
+    <string name="q3_opt_3">Air plane mode</string>
+    <string name="q3_opt_4">None of the Above</string>
+    <string name="ques_4">Q.4 - Which of the following is true about String?</string>
+    <string name="q4_opt_1">String is mutable</string>
+    <string name="q4_opt_2">String is immutable</string>
+    <string name="q4_opt_3">String is a data type</string>
+    <string name="q4_opt_4">None of the above.</string>
+    <string name="ques_5">Q.5 - What are the programming language(s) required for Android
+        Studio?</string>
+    <string name="q5_opt_1">Kotlin</string>
+    <string name="q5_opt_2">Python</string>
+    <string name="q5_opt_3">Java</string>
+    <string name="q5_opt_4">C programming</string>
+    <string name="submit">Submit</string>
+    <string name="logo_des">App Logo</string>
+    <string name="ques_6">Q.6 - What does SDK stand for?</string>
+    <string name="ques_5_hint">Write your answer here</string>
+    <string name="quesSixAns">Software Development Kit</string>
+</resources>
